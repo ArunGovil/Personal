@@ -1,9 +1,7 @@
 ---
-title: Blog - Anthony Fu
-display: ''
+title: Blog - Arun Govil
+display: 'Blog'
 ---
-
-<SubNav/>
 
 <ClientOnly>
   <Plum/>

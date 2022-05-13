@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { isDark } from '~/logics'
+import { isDark } from "~/logics";
 </script>
 
 <template>
@@ -9,49 +9,38 @@ import { isDark } from '~/logics'
       to="/"
       focusable="false"
     >
-      <img v-show="isDark" src="/logo-dark.svg?url" alt="logo">
-      <img v-show="!isDark" src="/logo.svg?url" alt="logo">
+      <feather-activity />
     </router-link>
     <nav class="nav">
       <div class="spacer" />
       <div class="right">
-        <router-link to="/posts" title="Blog">
+        <!-- <router-link to="/posts" title="Blog">
           <span class="lt-md:hidden">Blog</span>
           <div i-ri-article-line md:hidden />
-        </router-link>
+        </router-link> -->
+        <a href="https://rb.gy/manz8o" title="Resume" target="_blank">
+          <span class="lt-md:hidden">Resume</span>
+          <div i-ri-article-line md:hidden />
+        </a>
         <router-link to="/projects" title="Projects">
           <span class="lt-md:hidden">Projects</span>
           <div i-ri-lightbulb-line class="md:hidden" />
         </router-link>
-        <router-link to="/talks" class="lt-md:hidden" title="Talks">
-          <div i-ri-slideshow-2-line />
-        </router-link>
-        <router-link to="/podcasts" class="lt-md:hidden" title="Podcasts">
-          <div i-ri-mic-line />
-        </router-link>
-        <router-link to="/streams" class="lt-md:hidden" title="Streams">
-          <div i-ri-vidicon-line />
-        </router-link>
-        <router-link to="/demos" title="Demos">
-          <div i-ri-screenshot-line />
-        </router-link>
-        <!-- <router-link to="/bookmarks" title="Bookmarks">
-          <div i-ri-bookmark-line />
-        </router-link> -->
-        <router-link to="/notes" title="Notes">
-          <div i-ri-sticky-note-line />
-        </router-link>
-        <router-link to="/sponsors-list" title="Sponsors">
-          <div i-ri-heart-line />
-        </router-link>
-        <a href="https://twitter.com/antfu7" target="_blank" title="Twitter" class="lt-md:hidden">
+        <a
+          href="https://twitter.com/be_like_arun"
+          target="_blank"
+          title="Twitter"
+          class="lt-md:hidden"
+        >
           <feather-twitter />
         </a>
-        <a href="https://github.com/antfu" target="_blank" title="GitHub" class="lt-md:hidden">
+        <a
+          href="https://github.com/ArunGovil"
+          target="_blank"
+          title="GitHub"
+          class="lt-md:hidden"
+        >
           <div i-uil-github-alt />
-        </a>
-        <a href="/feed.xml" target="_blank" title="RSS" class="lt-md:hidden">
-          <div i-la-rss-square style="font-size:1.25rem; margin: 0 -0.125rem;" />
         </a>
         <toggle-theme />
       </div>
