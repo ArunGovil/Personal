@@ -14,7 +14,7 @@ import { isDark } from "~/logics";
     <nav class="nav">
       <div class="spacer" />
       <div class="right">
-        <a href="https://rb.gy/k2m0p6" title="Resume" target="_blank">
+        <a href="https://rb.gy/fi0zue" title="Resume" target="_blank">
           <span class="lt-md:hidden">Resume</span>
           <div i-ri-file-text-line md:hidden />
         </a>
