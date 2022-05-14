@@ -14,7 +14,7 @@ useHead({
       property: "og:image",
       content: "https://arungovil.github.io/avatar.webp",
     },
-    { name: "description", content: "Arun Govil's Portfolio" },
+    { name: "description", content: "Arun Govil Online" },
   ],
 });
 </script>
