@@ -32,4 +32,9 @@ projects:
 
 ---
 
+<ClientOnly>
+  <Plum/>
+</ClientOnly>
+
+
 <ListProjects :projects="frontmatter.projects"/>

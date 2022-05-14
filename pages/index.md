@@ -8,7 +8,7 @@ title: Arun Govil
 
 Hey there, I am Arun Govil, a hobbyist developer and designer with love for minimalist design and delightful experience.
 
-Currently fixing bugs at my [workplace](https://www.strebentechnik.com), where I'm actively involved in frontend development using frameworks like ReactJs, VueJs and React Native. In my free time I love building side [projects](/projects) and exploring new technologies.
+Currently fixing bugs at my [workplace](https://www.strebentechnik.com), where I'm actively involved in frontend development using frameworks like [ReactJs](https://reactjs.org/), [NuxtJs](https://nuxtjs.org/) and [React Native](https://reactnative.dev/). In my free time I love building side [projects](/projects) and exploring new technologies.
 
  For most of my design work, I use [Figma](https://www.figma.com/) and [Photopea](https://www.photopea.com/).
 
