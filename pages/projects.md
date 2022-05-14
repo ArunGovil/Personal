@@ -15,20 +15,20 @@ projects:
   College:
     - name: 'ShareNotes'
       link: 'https://github.com/ArunGovil/ShareNotesApp'
-      desc: 'Note sharing app for college.'
-      icon: 'i-carbon-plane-sea'
+      desc: 'React Native note sharing app for college.'
+      icon: 'i-carbon-share'
     - name: 'BloodHub'
       link: 'https://github.com/ArunGovil/BloodHubApp'
-      desc: 'Realtime blood bank app for college.'
-      icon: 'i-heroicons-solid-cursor-click'
+      desc: 'Realtime blood donor android app for college.'
+      icon: 'i-carbon-rain-drop'
     - name: 'ProductPage'
       link: 'https://github.com/ArunGovil/ProductPage'
-      desc: 'Simple ReactJS product landing page.'
-      icon: 'i-heroicons-solid-cursor-click'
+      desc: 'Simple product landing page using ReactJs.'
+      icon: 'i-carbon-blog'
     - name: 'College Webpage'
       link: 'https://github.com/ArunGovil/CollegeWebsite'
       desc: 'College website frontend using HTML.'
-      icon: 'i-carbon-favorite'
+      icon: 'i-carbon-html'
 
 ---
 

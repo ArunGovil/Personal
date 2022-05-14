@@ -14,14 +14,14 @@ import { isDark } from "~/logics";
     <nav class="nav">
       <div class="spacer" />
       <div class="right">
-        <!-- <router-link to="/posts" title="Blog">
-          <span class="lt-md:hidden">Blog</span>
-          <div i-ri-article-line md:hidden />
-        </router-link> -->
-        <a href="https://rb.gy/manz8o" title="Resume" target="_blank">
+        <a href="https://rb.gy/k2m0p6" title="Resume" target="_blank">
           <span class="lt-md:hidden">Resume</span>
-          <div i-ri-article-line md:hidden />
+          <div i-ri-file-text-line md:hidden />
         </a>
+        <router-link to="/posts" title="Blog">
+          <span class="lt-md:hidden">Blog</span>
+          <div i-ri-cast-line md:hidden />
+        </router-link>
         <router-link to="/projects" title="Projects">
           <span class="lt-md:hidden">Projects</span>
           <div i-ri-lightbulb-line class="md:hidden" />

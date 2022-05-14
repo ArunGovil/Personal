@@ -7,4 +7,8 @@ duration: 1min
 
 [[toc]]
 
-This is a demo post.
+Hello world, welcome to my blog.
+
+Here I will be posting some of my thoughts and experiences on tech, design and life.
+
+Cheers!
