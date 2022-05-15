@@ -6,13 +6,13 @@ title: Arun Govil
   <Plum/>
 </ClientOnly>
 
-Hey there, I am Arun Govil, a hobbyist developer and designer with love for minimalist design and delightful experience.
+Hey there, I am Arun Govil, a hobbyist developer and designer with love for minimalist design and meaningful experience.
 
 Currently fixing bugs at my [workplace](https://www.strebentechnik.com), where I'm actively involved in frontend development using frameworks like [ReactJs](https://reactjs.org/), [NuxtJs](https://nuxtjs.org/) and [React Native](https://reactnative.dev/). In my free time I love building side [projects](/projects) and exploring new technologies.
 
- For most of my design work, I use [Figma](https://www.figma.com/) and [Photopea](https://www.photopea.com/).
+For most of my design work, I use [Figma](https://www.figma.com/) and [Photopea](https://www.photopea.com/).
 
-Apart from coding, I love to sleep, read and explore all the interesting stuff going around the world so as to keep my worldview up to date.
+Apart from coding, I love to sleep, read and explore all new interesting stuff going around the world so as to keep myself up to date.
 
 ---
 
