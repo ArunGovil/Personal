@@ -7,6 +7,10 @@ projects:
       link: "https://arungovil.github.io/DawkinsScale"
       desc: "Simple representation of Dawkins scale of faith."
       icon: "i-carbon-ruler"
+    - name: "StepperForm"
+      link: "https://github.com/ArunGovil/StepForm"
+      desc: "Stepper form in ReactJs with Context API"
+      icon: "i-carbon-chart-stepper"
 
   College:
     - name: "ShareNotes"
